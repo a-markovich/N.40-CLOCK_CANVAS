@@ -132,8 +132,6 @@ function createСlock() {
     }
 
     currentTime();
-
-    //setInterval(currentTime,1000);
 }
 
 
