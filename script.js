@@ -133,7 +133,7 @@ function createСlock() {
 
     currentTime();
 
-    setInterval(currentTime,1000);
+    //setInterval(currentTime,1000);
 }
 
 
